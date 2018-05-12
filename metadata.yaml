@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3111
     wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Fontana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25312#Nabuco
 gutenberg_bookshelf: IT Teatro in versi
 gutenberg_issued: '2008-05-03'
 gutenberg_type: Text
