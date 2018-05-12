@@ -1,0 +1,31 @@
+_repo: Nabuco_25312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fontana, Ferdinando
+    aliases:
+    - Fontana, F. (Ferdinando)
+    - Fontana, Fernando
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '3111'
+    url: http://www.gutenberg.org/2009/agents/3111
+    wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Fontana
+description: ''
+gutenberg_bookshelf: IT Teatro in versi
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25312'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian drama'
+title: Nabuco
+url: http://www.gutenberg.org/ebooks/25312
